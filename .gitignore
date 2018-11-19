@@ -2,3 +2,5 @@
 /vendor
 #vagrant dir
 /vagrant
+#db config
+/config/db.php
